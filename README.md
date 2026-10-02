@@ -4,7 +4,7 @@ A simple D&D dice roller made with [Kodular](https://www.kodular.io/) while lear
 
 ## Features
 
-Tap a die to roll a **d4, d6, d8, d10, d12, or d20**. CritRoll displays the result and plays a short dice sound.
+Tap a dice to roll a **d4, d6, d8, d10, d12, or d20**. CritRoll displays the result and plays a short dice sound.
 
 ## Screenshots
 
